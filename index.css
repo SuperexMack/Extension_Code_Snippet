@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 300px;
+}
+.pasted-data1{
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.pasted-data2{
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.save-btn{
+    border-radius: 10px;
+    background-color: #DAA520;
+}
+#clear-button{
+    border-radius: 10px;
+    background-color: #FF9933;
+}
+
+.saved-data-head{
+    color: #800080;
+}
